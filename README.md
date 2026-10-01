@@ -9,6 +9,7 @@ z. B. `paletten-packschema-v1.6.0`.
 | Programm | Wofür | Releases |
 |---|---|---|
 | **Paletten-Packschema** | berechnet und zeigt, wie Pakete auf einer Palette gestapelt werden (Draufsicht, Seitenansicht, 3D, Druck/PDF) | Tags `paletten-packschema-v…` |
+| **Wohlenberg-Schnittplan** | teilt Bogen in Nutzen auf und berechnet Schnittreihenfolge und Anschlagfolge für den Wohlenberg-Planschneider (Druck/PDF) | Tags `wohlenberg-schnittplan-v…` |
 
 ## Am einfachsten: Tool Launcher
 
